@@ -29407,11 +29407,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -6796760352597098166, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bef8b174ced93464ebf94efac09557ea, type: 2}
+    - target: {fileID: -6796760352597098166, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30d2e0b0fdf6fa143ad438bc5af0c4fd, type: 2}
+    - target: {fileID: -6796760352597098166, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
       objectReference: {fileID: 2100000, guid: d3ef80302a1e00545bf42250b40e5abd, type: 2}
     - target: {fileID: -6605905601609218241, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
+      propertyPath: m_Name
+      value: WallL
+      objectReference: {fileID: 0}
+    - target: {fileID: -6605905601609218241, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
@@ -29422,6 +29437,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -5848494738528241545, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
+      propertyPath: m_Name
+      value: WallB
+      objectReference: {fileID: 0}
+    - target: {fileID: -5848494738528241545, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
@@ -29432,6 +29452,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4257844913070699516, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
+      propertyPath: m_Name
+      value: WallF
+      objectReference: {fileID: 0}
+    - target: {fileID: -4257844913070699516, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
       propertyPath: m_TagString
       value: Floor
       objectReference: {fileID: 0}
@@ -29439,6 +29464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4209451312411188179, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Name
+      value: Ceiling
       objectReference: {fileID: 0}
     - target: {fileID: -4209451312411188179, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
@@ -29455,6 +29485,16 @@ PrefabInstance:
       propertyPath: m_ScaleInLightmap
       value: 0.15
       objectReference: {fileID: 0}
+    - target: {fileID: -2482015187447828709, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30d2e0b0fdf6fa143ad438bc5af0c4fd, type: 2}
+    - target: {fileID: -2482015187447828709, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: bef8b174ced93464ebf94efac09557ea, type: 2}
     - target: {fileID: -2482015187447828709, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
       propertyPath: m_Materials.Array.data[2]
@@ -29480,11 +29520,26 @@ PrefabInstance:
       propertyPath: m_ScaleInLightmap
       value: 0.15
       objectReference: {fileID: 0}
+    - target: {fileID: 204838771241786565, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30d2e0b0fdf6fa143ad438bc5af0c4fd, type: 2}
     - target: {fileID: 319178363871491295, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
       propertyPath: m_ScaleInLightmap
       value: 0.15
       objectReference: {fileID: 0}
+    - target: {fileID: 319178363871491295, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bef8b174ced93464ebf94efac09557ea, type: 2}
+    - target: {fileID: 319178363871491295, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30d2e0b0fdf6fa143ad438bc5af0c4fd, type: 2}
     - target: {fileID: 319178363871491295, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
       propertyPath: m_Materials.Array.data[2]
@@ -29507,9 +29562,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3619126730626325535, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bef8b174ced93464ebf94efac09557ea, type: 2}
+    - target: {fileID: 3619126730626325535, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30d2e0b0fdf6fa143ad438bc5af0c4fd, type: 2}
+    - target: {fileID: 3619126730626325535, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
       objectReference: {fileID: 2100000, guid: d3ef80302a1e00545bf42250b40e5abd, type: 2}
+    - target: {fileID: 5411375126722703683, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Name
+      value: WallR
+      objectReference: {fileID: 0}
     - target: {fileID: 5411375126722703683, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
       propertyPath: m_TagString
@@ -29519,6 +29589,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 9073458628407472447, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Name
+      value: Floor
       objectReference: {fileID: 0}
     - target: {fileID: 9073458628407472447, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
