@@ -28783,7 +28783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f24a07fa716efb4fad3ef46894dd59e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FsmDatacheck: {fileID: 0}
   Balls: []
   successBalls1: []
   successBalls2: []
@@ -29456,6 +29455,11 @@ PrefabInstance:
       propertyPath: m_ScaleInLightmap
       value: 0.15
       objectReference: {fileID: 0}
+    - target: {fileID: -2228170428387841520, guid: 174e6f3717fb9264a852a66f592cdac2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d3ef80302a1e00545bf42250b40e5abd, type: 2}
     - target: {fileID: 204838771241786565, guid: 174e6f3717fb9264a852a66f592cdac2,
         type: 3}
       propertyPath: m_Enabled
